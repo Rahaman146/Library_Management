@@ -3,6 +3,8 @@
 
 #include "User.h"
 
+using namespace std;
+
 class Faculty : public User
 {
 public:

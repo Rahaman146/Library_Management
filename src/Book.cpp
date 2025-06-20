@@ -1,4 +1,10 @@
 #include "Book.h"
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+
+using namespace std;
 
 Book::Book() : id(0), year(0), status("Available") {}
 

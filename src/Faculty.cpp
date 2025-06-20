@@ -3,6 +3,8 @@
 #include <iostream>
 #include <algorithm>
 
+using namespace std;
+
 Faculty::Faculty(int id, string username, string password, string name) : User(id, username, password, "Faculty", name) {}
 
 void Faculty::borrowBook(vector<Book> &books, int bookID, vector<Account> &accounts)

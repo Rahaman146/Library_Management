@@ -4,6 +4,8 @@
 #include <ctime>
 #include <limits>
 
+using namespace std;
+
 Account::Account(int id) : userID(id), fine(0) {}
 
 int Account::getUserID() const

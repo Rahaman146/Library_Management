@@ -5,6 +5,8 @@
 #include "Book.h"
 #include <vector>
 
+using namespace std;
+
 class Librarian : public User
 {
 public:

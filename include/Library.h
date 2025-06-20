@@ -5,6 +5,8 @@
 #include "User.h"
 #include <vector>
 
+using namespace std;
+
 class Library
 {
 public:
