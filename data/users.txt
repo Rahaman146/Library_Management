@@ -1,0 +1,5 @@
+1,Rahaman175,password123,Student,Sk Rahaman
+2,Praneeth69,lss123,Student,Lss Praneeth
+3,wow98,vada123,Student,Krs Vardhan
+4,thegoat,faculty123,Faculty,Dr. Harbola
+5,librarian1,admin123,Librarian,Mr. ALice

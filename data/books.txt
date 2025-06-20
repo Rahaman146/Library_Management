@@ -1,0 +1,12 @@
+0,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Bloomsbury,1997,9780747532743,Available
+1,The Lord of the Rings,J.R.R. Tolkien,George Allen & Unwin,1954,9780261103252,Available
+2,Introduction to Algorithms,Thomas H. Cormen,MIT Press,2009,9780262033848,Available
+3,Artificial Intelligence: A Modern Approach,Stuart Russell & Peter Norvig,Pearson,2020,9780134610993,Available
+4,Database System Concepts,Abraham Silberschatz,McGraw-Hill,2019,9780078022159,Available
+5,Modern Operating Systems,Andrew S. Tanenbaum,Pearson,2022,9780133591620,Available
+6,The Alchemist,Paulo Coelho,HarperTorch,1988,9780061122415,Available
+7,Pride and Prejudice,Jane Austen,T. Egerton,1813,9781503290563,Available
+8,Linear Algebra and Its Applications,Gilbert Strang,Cengage,2016,9780030105678,Available
+9,Physics for Scientists and Engineers,Raymond A. Serway,Cengage,2018,9781337553278,Available
+10,One Piece Volume 1: Romance Dawn,Eiichiro Oda,Shueisha,1997,9781569319017,Available
+11,Naruto Volume 1: Uzumaki Naruto,Masashi Kishimoto,Shueisha,1999,9781569319000,Available
